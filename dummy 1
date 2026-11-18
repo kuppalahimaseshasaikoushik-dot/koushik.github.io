@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Dummy Website</title>
+    <style>
+        body { font-family: sans-serif; max-width: 700px; margin: 50px auto; padding: 0 20px; line-height: 1.6; }
+        header { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; }
+        .card { background: #f9f9f9; padding: 20px; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Dummy Website</h1>
+        <p>Hosted for free with GitHub Pages.</p>
+    </header>
+    <div class="card">
+        <h2>About This Page</h2>
+        <p>This is a placeholder site ready for testing layouts, links, or designs.</p>
+    </div>
+</body>
+</html>
